@@ -64,12 +64,17 @@ Actual time needed to complete: 3 hrs
 
 Estimate of time needed to complete: 1 hr
 
+
 Start time: 2:06 AM
 
 Finish time: 2:15 AM
 
 Actual time needed to complete: 9 mins
 
+
+Actual time needed to complete: 9 mins
+
+-------------------------------------------
 
 --------------------------------------
 
