@@ -1,7 +1,7 @@
 Deployment link: [portfolio](https://hamzahmadportfolio.netlify.app/)
 
 
-Number and name of feature: 1. Deploy
+## Number and name of feature: 1. Deploy
 
 Estimate of time needed to complete: 10 mins
 
@@ -13,10 +13,10 @@ Actual time needed to complete: 5 mins
 
 
 
+--------------------------------
 
 
-
-Number and name of feature: 2. Profile Page
+## Number and name of feature: 2. Profile Page
 
 Estimate of time needed to complete: 15 mins
 
@@ -28,10 +28,10 @@ Actual time needed to complete: 13 mins
 
 
 
+--------------------------------------
 
 
-
-Number and name of feature: Nav, Header and Footer
+## Number and name of feature: Nav, Header and Footer
 
 Estimate of time needed to complete: 20 mins
 
@@ -42,22 +42,36 @@ Finish time: 11:06 pm
 Actual time needed to complete: 23 mins
 
 
+--------------------------------------------
 
 
-
-Number and name of feature: 4. Portfolio Page
+## Number and name of feature: 4. Portfolio Page
 
 Estimate of time needed to complete: 1 hr
 
 Start time: 11:10 pm
 
-Finish time: calculating
+Finish time: 2:06 AM
 
-Actual time needed to complete: calculating
-
-
+Actual time needed to complete: 3 hrs
 
 
+---------------------------------------------
+
+
+
+## Number and name of feature: 5. Personalize
+
+Estimate of time needed to complete: 1 hr
+
+Start time: 2:06 AM
+
+Finish time: 2:15 AM
+
+Actual time needed to complete: 9 mins
+
+
+--------------------------------------
 
 # [Argon Design System React](https://demos.creative-tim.com/argon-design-system-react?ref=adsr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Design%20System%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-design-system-react%20%23react%20%23reactstrap%20%23createreactapp%20%23argon%20%23argondesign%20%23reactkit%20%23argonreact%20%23reactdesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
 
